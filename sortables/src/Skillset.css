@@ -1,0 +1,11 @@
+.skillset{
+    width: 100%;
+}
+.skillset li{
+    cursor: pointer;
+    margin: 10px 0px;
+}
+.skillset h2{
+    font-size: 1rem;
+    margin: 10px;
+}

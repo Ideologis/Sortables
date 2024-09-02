@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h3{
+  margin: 35px;
+  font-weight: 600;
+  color: #051650;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.App{
+  text-align: center;
+}
+.tech_form{
+  background-color:lightblue;
+  display: flex;
+  gap: 50px;
+  justify-content: space-between;
+  /* align-items: center; */
+  border-radius: 10px;
+  padding: 30px;
+}
